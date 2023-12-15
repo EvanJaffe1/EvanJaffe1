@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EvanJaffe1
 - 👀 I’m interested in growing as a tech professional
 - 🌱 I’m currently learning Data Analysis, Tableau, SQL, and 
-- 💞️ I’m looking to collaborate on any projects I possibly can.
+- 💞️ I’m looking to collaborate on any projects I possibly can
 - 📫 How to reach me: evanajaffe@gmail.com
 
 <!---
